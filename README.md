@@ -8,7 +8,7 @@ ___________________________________________________________________________
 
 <img src="https://img.shields.io/badge/-HTML-orange" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-Javascript-yellow" /> <img src="https://img.shields.io/badge/-SASS-pink" />
 
-<img src="https://img.shields.io/badge/-NPM-red" />  <img src="https://img.shields.io/badge/-Webpack-yellow" /> <img src="https://img.shields.io/badge/-SASS-orange" />
+<img src="https://img.shields.io/badge/-NPM-red" />  <img src="https://img.shields.io/badge/-Webpack-yellow" /> <img src="https://img.shields.io/badge/-GIT-orange" />
 
 
 ___________________________________________________________________________
