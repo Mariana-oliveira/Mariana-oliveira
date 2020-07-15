@@ -14,6 +14,9 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 ### 
 
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.instagram.com/mariana.codes/)
+
+[<a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/mariana.codes/)
 
 <!--
 **Mariana-oliveira/Mariana-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
